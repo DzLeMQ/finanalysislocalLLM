@@ -1,3 +1,5 @@
+# Income & Expense Insights
+This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a **local LLM** to automatically categorize each transaction.
 
 # Prerequisites
 1. Python 3.14 or higher
@@ -10,14 +12,12 @@
 3. Run a model using ollama coammnd _ollama run modelname_
 4. Start chatting to test the model via prompt
 
-# Income & Expense Insights
-This project delivers a quick understanding of personal income, expenses, and savings by using **synthetic computer generated** banking transactions and a **local LLM** to automatically categorize each transaction.
-<p align="center">
+
+<!-- <p align="center">
 <img width="497" height="341" alt="image" src="https://github.com/user-attachments/assets/07a9f054-be2a-4e30-b330-3def0e05ecde" />
-</p>
+</p> -->
 
 # Insights Visualisation
-
 Comparative Summary
 <img width="1268" height="440" alt="image" src="https://github.com/user-attachments/assets/a43527bb-2951-45f3-b326-aada0ebe56c2" />
 
